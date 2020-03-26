@@ -10,7 +10,7 @@
 		<link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
 		<link rel="stylesheet" href="booking1.css">
 		<link rel="stylesheet" href="admindash.css">
-		<title>Admin dashboard</title>
+		<title>Admin Dashboard</title>
 	</head>
 	<body>
 <nav class="navbar navbar-expand-md navbar-light">
